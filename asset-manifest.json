@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MyStoreApp/static/css/main.4c3359a5.css",
+    "main.js": "/MyStoreApp/static/js/main.ca5674ec.js",
+    "static/media/image.jpg": "/MyStoreApp/static/media/image.c8aaf710455caee1fa27.jpg",
+    "index.html": "/MyStoreApp/index.html",
+    "main.4c3359a5.css.map": "/MyStoreApp/static/css/main.4c3359a5.css.map",
+    "main.ca5674ec.js.map": "/MyStoreApp/static/js/main.ca5674ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c3359a5.css",
+    "static/js/main.ca5674ec.js"
+  ]
+}
